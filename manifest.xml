@@ -71,6 +71,7 @@
       <Resources>
         <bt:Images>
           <bt:Image id="Icon.16x16" DefaultValue="https://adeelumarit.github.io/ccinspector/assets/icon-16.png"/>
+          <!-- <bt:Image id="icon20" DefaultValue="https://adeelumarit.github.io/ccinspector/assets/warning.png"/> -->
           <bt:Image id="Icon.32x32" DefaultValue="https://adeelumarit.github.io/ccinspector/assets/icon-32.png"/>
           <bt:Image id="Icon.80x80" DefaultValue="https://adeelumarit.github.io/ccinspector/assets/icon-80.png"/>
         </bt:Images>
